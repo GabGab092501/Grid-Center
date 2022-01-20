@@ -10,6 +10,13 @@
     place-items: center;
 }
 
+.parent2{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 button{
     height: 20vh;
     width: 10rem;
